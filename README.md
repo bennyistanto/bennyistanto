@@ -8,4 +8,4 @@ I write a blog related to climate, GIS, remote sensing and application to humani
 
 * Website: https://benny.istan.to
 * Linkedin: https://www.linkedin.com/in/bennyistanto/
-* By Me a Coffee: https://www.buymeacoffee.com/bennyistanto
+* Buy Me a Coffee: https://www.buymeacoffee.com/bennyistanto
