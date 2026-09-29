@@ -6,6 +6,20 @@ Currently, I serve as a **Climate Geographer** at the Geospatial Operations Supp
 
 I write a blog related to climate, GIS, remote sensing and application to humanitarian activities at [https://benny.istan.to/blog](https://benny.istan.to/blog), I run a “casual weekend project” called **Climate Social Responsibility** (CSR – [https://benny.istan.to/csr](https://benny.istan.to/csr)), to provide satellite-based climate and vegetation products for free, i.e. rainfall and anomaly, dry and wet spell, standardized precipitation index, and crop phenology.
 
+### Selected work
+
+| Repository | What it does | Live |
+|---|---|---|
+| [precip-index](https://github.com/bennyistanto/precip-index) | SPI and SPEI for climate extremes monitoring | [site](https://bennyistanto.github.io/precip-index/) |
+| [eddi](https://github.com/bennyistanto/eddi) | Evaporative Demand Drought Index | |
+| [drought-propagation](https://github.com/bennyistanto/drought-propagation) | Meteorological to hydrological drought, via cross-correlation analysis | |
+| [hujan-badai](https://github.com/bennyistanto/hujan-badai) | Object-based storm detection and tracking over Indonesia | [site](https://bennyistanto.github.io/hujan-badai/) |
+| [himawari](https://github.com/bennyistanto/himawari) | Historical Himawari Level 1b archive to calibrated RGB composites and animation | |
+| [hybrid-bias-correction](https://github.com/bennyistanto/hybrid-bias-correction) | Bias correction across values, distributions and extremes, with neural refinement | [site](https://bennyistanto.github.io/hybrid-bias-correction/) |
+| [gee](https://github.com/bennyistanto/gee) | Google Earth Engine scripts collected from my work | |
+
+Shorter things - one-off scripts, notebooks, recipes and notes that never grew into a repo - get dumped in my [gists](https://gist.github.com/bennyistanto).
+
 * Website: [https://benny.istan.to](https://benny.istan.to)
 * LinkedIn: [https://www.linkedin.com/in/bennyistanto/](https://www.linkedin.com/in/bennyistanto/)
 * Buy Me a Coffee: [https://www.buymeacoffee.com/bennyistanto](https://www.buymeacoffee.com/bennyistanto)
