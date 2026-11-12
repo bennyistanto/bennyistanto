@@ -16,6 +16,7 @@ I write a blog related to climate, GIS, remote sensing and application to humani
 | [hujan-badai](https://github.com/bennyistanto/hujan-badai) | Object-based storm detection and tracking over Indonesia | [site](https://bennyistanto.github.io/hujan-badai/) |
 | [himawari](https://github.com/bennyistanto/himawari) | Historical Himawari Level 1b archive to calibrated RGB composites and animation | |
 | [hybrid-bias-correction](https://github.com/bennyistanto/hybrid-bias-correction) | Bias correction across values, distributions and extremes, with neural refinement | [site](https://bennyistanto.github.io/hybrid-bias-correction/) |
+| [pycpt-tutorial](https://github.com/bennyistanto/pycpt-tutorial) | A practical guide to climate prediction using PyCPT | [site](https://bennyistanto.github.io/pycpt-tutorial/) |
 | [gee](https://github.com/bennyistanto/gee) | Google Earth Engine scripts collected from my work | |
 | [xdssat](https://github.com/bennyistanto/xdssat) | xdssat: DSSAT on a grid | [site](https://bennyistanto.github.io/xdssat/) |
 
