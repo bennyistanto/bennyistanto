@@ -13,7 +13,9 @@ I write a blog related to climate, GIS, remote sensing and application to humani
 | [precip-index](https://github.com/bennyistanto/precip-index) | SPI and SPEI for climate extremes monitoring | [site](https://bennyistanto.github.io/precip-index/) |
 | [eddi](https://github.com/bennyistanto/eddi) | Evaporative Demand Drought Index | |
 | [drought-propagation](https://github.com/bennyistanto/drought-propagation) | Meteorological to hydrological drought, via cross-correlation analysis | |
-| [drywet-explorer](https://github.com/bennyistanto/drywet-explorer) | Exploring dry and wet conditions in Indonesia |[site](https://bennyistanto.github.io/drywet-explorer/) |
+| [drywet-explorer](https://github.com/bennyistanto/drywet-explorer) | Exploring dry and wet conditions in Indonesia | [site](https://bennyistanto.github.io/drywet-explorer/) |
+| [heat-explorer](https://github.com/bennyistanto/heat-explorer) | An interactive dashboard of heat spells over the world's land | [site](https://bennyistanto.github.io/heat-explorer/) |
+| [nightlights-explorer](https://github.com/bennyistanto/nightlights-explorer) | Indonesia after dark, by province, district and sub-district | [site](https://bennyistanto.github.io/nightlights-explorer/) |
 | [hujan-badai](https://github.com/bennyistanto/hujan-badai) | Object-based storm detection and tracking over Indonesia | [site](https://bennyistanto.github.io/hujan-badai/) |
 | [himawari](https://github.com/bennyistanto/himawari) | Historical Himawari Level 1b archive to calibrated RGB composites and animation | |
 | [hybrid-bias-correction](https://github.com/bennyistanto/hybrid-bias-correction) | Bias correction across values, distributions and extremes, with neural refinement | [site](https://bennyistanto.github.io/hybrid-bias-correction/) |
